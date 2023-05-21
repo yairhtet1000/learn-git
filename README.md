@@ -4,5 +4,5 @@ Testing git
 
 # Installation
 
-- - npm install
-- - import bla from bla
+- npm install
+- import bla from bla
